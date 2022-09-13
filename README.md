@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dimitri Zimermann</h1>
-<h3 align="center">A Full-Stack Developer and Production Engineer from Brazil</h3>
+<h2 align="justify">Hey 👋, I'm Dimitri Zimermann</h2>
+<h3 align="justify">A Full-Stack Developer and Production Engineer from Brazil</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript, SQL**
 
