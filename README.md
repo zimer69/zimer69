@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript, SQL**
 
 - 📫 How to reach me **dimitrizimer@gmail.com**
+- My profile page with path to portfolio: https://zimer69.github.io/profile/
 
 <div align="start">
   <a href="https://github.com/zimer69">
