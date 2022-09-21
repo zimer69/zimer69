@@ -1,7 +1,7 @@
 <h2 align="justify">Hey 👋, I'm Dimitri Zimermann</h2>
 <h3 align="justify">A Full-Stack Developer and Production Engineer from Brazil</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript, SQL**
+- 🌱 I’m currently learning **React, Ruby on Rails, JavaScript, SQL**
 
 - 📫 How to reach me **dimitrizimer@gmail.com**
 - My profile page with path to portfolio: https://zimer69.github.io/profile/
