@@ -1,8 +1,6 @@
 <h2 align="justify">Hey 👋, I'm Dimitri Zimermann</h2>
 <h3 align="justify">A Full-Stack Developer and Production Engineer from Brazil</h3>
 
-- 🌱 I’m currently working with **Ruby on Rails, JavaScript, SQL**
-
 - 📫 How to reach me **dimitrizimer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
